@@ -17,30 +17,36 @@ The project follows a **3-Tier Architecture** and uses **SQL Server** with **ADO
   
 <img width="913" height="487" alt="Image" src="https://github.com/user-attachments/assets/779e3305-24b4-4ef2-9a9a-e6288512d338" />
 
----------
+
 * MainScreen
   
 <img width="1580" height="805" alt="Image" src="https://github.com/user-attachments/assets/7064a6e7-eb6a-4162-bd54-956f0af394c4" />
 
----------
+
 * Add New Person
   
 <img width="1576" height="795" alt="Image" src="https://github.com/user-attachments/assets/e6d09aa4-ed11-412e-b0e0-86ac08b23e7b" />
 
----------
+
 * Local Driving License Management
 
 <img width="1573" height="937" alt="Image" src="https://github.com/user-attachments/assets/64baae74-334e-4453-bf10-766b2651a383" />
 
----------
+
 * Take Test
 
 <img width="1397" height="907" alt="Image" src="https://github.com/user-attachments/assets/87c538d7-28e8-4a26-98dc-cf8eb60f6c87" />
 
----------
+
 * International Driving Licence
 
 <img width="1582" height="802" alt="Image" src="https://github.com/user-attachments/assets/3196c7ab-d56b-4f7b-8699-fdb816319776" />
+
+---------
+## Database Diagram 
+* Database ScreenShot
+
+<img width="1313" height="786" alt="Image" src="https://github.com/user-attachments/assets/ac105801-07ff-4a47-bb11-cfdaf1b7e7f5" />
 
 ## Features
 
