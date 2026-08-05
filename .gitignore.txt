@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Debug files
+*.pdb
+
+# Visual Studio cache
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
