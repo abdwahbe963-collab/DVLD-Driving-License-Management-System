@@ -13,16 +13,18 @@ The project follows a **3-Tier Architecture** and uses **SQL Server** with **ADO
 
 ## Some Images of the project interface
 
-*LoginScreen
-
+* LoginScreen
+  
 <img width="913" height="487" alt="Image" src="https://github.com/user-attachments/assets/779e3305-24b4-4ef2-9a9a-e6288512d338" />
 
 ---------
-MainScreen
+* MainScreen
+  
 <img width="1580" height="805" alt="Image" src="https://github.com/user-attachments/assets/7064a6e7-eb6a-4162-bd54-956f0af394c4" />
 
 ---------
-*Add New Person
+* Add New Person
+  
 <img width="1576" height="795" alt="Image" src="https://github.com/user-attachments/assets/e6d09aa4-ed11-412e-b0e0-86ac08b23e7b" />
 
 ---------
@@ -31,11 +33,13 @@ MainScreen
 <img width="1573" height="937" alt="Image" src="https://github.com/user-attachments/assets/64baae74-334e-4453-bf10-766b2651a383" />
 
 ---------
-*Take Test
+* Take Test
+
 <img width="1397" height="907" alt="Image" src="https://github.com/user-attachments/assets/87c538d7-28e8-4a26-98dc-cf8eb60f6c87" />
 
 ---------
-*International Driving Licence
+* International Driving Licence
+
 <img width="1582" height="802" alt="Image" src="https://github.com/user-attachments/assets/3196c7ab-d56b-4f7b-8699-fdb816319776" />
 
 ## Features
