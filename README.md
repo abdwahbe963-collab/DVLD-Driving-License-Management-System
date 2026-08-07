@@ -238,8 +238,6 @@ Clone the repository and open the solution file:
 
 Restore the provided **`DVLD_DB.bak`** database backup in SQL Server.
 
-> The repository will include a database backup for demonstration purposes.
-
 ### 3. Configure the Database Connection
 
 Update the database connection configuration to match the SQL Server instance on your machine.
